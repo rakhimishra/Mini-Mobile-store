@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Mini-Mobile-store/static/css/main.e5454c30.chunk.css",
+    "main.js": "/Mini-Mobile-store/static/js/main.314aef16.chunk.js",
+    "main.js.map": "/Mini-Mobile-store/static/js/main.314aef16.chunk.js.map",
+    "runtime-main.js": "/Mini-Mobile-store/static/js/runtime-main.13e098ba.js",
+    "runtime-main.js.map": "/Mini-Mobile-store/static/js/runtime-main.13e098ba.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Mini-Mobile-store/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.21e23850.chunk.js": "/Mini-Mobile-store/static/js/2.21e23850.chunk.js",
+    "static/js/2.21e23850.chunk.js.map": "/Mini-Mobile-store/static/js/2.21e23850.chunk.js.map",
+    "index.html": "/Mini-Mobile-store/index.html",
+    "precache-manifest.e251f7d8e9e713db3d5a1206a7ecf0a0.js": "/Mini-Mobile-store/precache-manifest.e251f7d8e9e713db3d5a1206a7ecf0a0.js",
+    "service-worker.js": "/Mini-Mobile-store/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Mini-Mobile-store/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e5454c30.chunk.css.map": "/Mini-Mobile-store/static/css/main.e5454c30.chunk.css.map",
+    "static/js/2.21e23850.chunk.js.LICENSE.txt": "/Mini-Mobile-store/static/js/2.21e23850.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Mini-Mobile-store/static/media/logo.9f7e506d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13e098ba.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.21e23850.chunk.js",
+    "static/css/main.e5454c30.chunk.css",
+    "static/js/main.314aef16.chunk.js"
+  ]
+}
